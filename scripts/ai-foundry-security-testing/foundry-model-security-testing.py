@@ -964,8 +964,8 @@ indirect_execution_tests = [
 # Usage for your exact Azure AI Foundry setup
 if __name__ == "__main__":
     # Your Azure AI Foundry Configuration
-    BASE_ENDPOINT = "Your Endpoint"
-    API_KEY = "Your Foundry API Key" 
+    BASE_ENDPOINT = ""
+    API_KEY = "" 
     MODEL_NAME = ""  
     API_VERSION = "" # i.e. 2024-05-01-preview
     
