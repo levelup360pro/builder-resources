@@ -450,8 +450,8 @@ class ExactPatternWAF:
 def main():
     """Main execution function"""
     # Configuration
-    RESOURCE_GROUP = "fabric-sqldb-ai-ragpipeline"
-    WAF_POLICY_NAME = "fabric-sqldb-ai-waf-policy"
+    RESOURCE_GROUP = ""
+    WAF_POLICY_NAME = ""
     
     print("🛡️  Exact Pattern WAF Creator - Precise Regex Blocking")
     print("="*80)

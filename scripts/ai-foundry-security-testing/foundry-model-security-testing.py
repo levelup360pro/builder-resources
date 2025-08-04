@@ -964,11 +964,10 @@ indirect_execution_tests = [
 # Usage for your exact Azure AI Foundry setup
 if __name__ == "__main__":
     # Your Azure AI Foundry Configuration
-    BASE_ENDPOINT = "https://fabric-sqldb-ai-foundry.services.ai.azure.com"
-    #BASE_ENDPOINT = "https://ai-gateway.local"
-    API_KEY = "CWJTxgQNTtQnMtrMS7dXDMtLCQ8Tl37DKAVZ9TGmfBhJ0xRJzqXoJQQJ99BHACI8hq2XJ3w3AAAAACOGwFnC"  
-    MODEL_NAME = "DeepSeek-R1-0528"  
-    API_VERSION = "2024-05-01-preview"
+    BASE_ENDPOINT = "Your Endpoint"
+    API_KEY = "Your Foundry API Key" 
+    MODEL_NAME = ""  
+    API_VERSION = "" # i.e. 2024-05-01-preview
     
     print("Azure AI Foundry LLM Security Testing Framework via Application Gateway")
     print("=" * 80)
