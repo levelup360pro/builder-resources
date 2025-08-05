@@ -10,7 +10,9 @@ Limitations: My tests aren't as sophisticated as real AI attacks; strict rules m
     (1) Restrictive-then-ease approach, or
     (2) Integration with AI protection platforms like Lakera.
 
-Verify thoroughly for your env. Excited for Microsoft's continued innovations in this space!
+Verify thoroughly for your env.
+
+Shared with Microsoft for feedback—excited for their innovationsin this space!
 
 ## Important Disclaimer & Responsible Use
 
