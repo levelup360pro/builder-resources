@@ -4,6 +4,13 @@
 
 This Python-based framework tests the security of Large Language Models (LLMs) deployed via Azure AI Foundry. It runs 12 specific tests to check if the AI can be tricked into dangerous behaviors like executing commands or generating malicious code. The tool analyzes responses, detects risks, and generates detailed reports.
 
+Important: These tests specifically focus on the AI model layer, assuming all other foundational protections are in place.
+
+Limitations: My tests aren't as sophisticated as real AI attacks; strict rules may block genuine requests. Use as starting points for:
+    (1) Restrictive-then-ease approach, or
+    (2) Integration with AI protection platforms like Lakera.
+Verify thoroughly for your env. Excited for Microsoft's continued innovations in this space!
+
 ## Important Disclaimer & Responsible Use
 
 This framework and its associated files are provided for **educational and security testing purposes only**. Before using, please acknowledge the following:
