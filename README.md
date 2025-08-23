@@ -12,7 +12,7 @@ Below is a curated list of free resources, organized by sub-folder. Each include
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| **Azure Diag Policy Builder** | A Python script to automate customization of 148+ Azure diagnostic policies, adding parameters for dedicated tables, metrics, and categories. Solves enterprise logging gaps efficiently. | [/scripts/policy-builder](/scripts/azure-diag-policy-builder) |
+| **Azure Diag Policy Builder** | A Python script to automate customization of 148+ Azure diagnostic policies, adding parameters for dedicated tables, metrics, and categories. Solves enterprise logging gaps efficiently. | [/scripts/policy-builder](/scripts/policy-builder) |
 | **Azure AI Foundry LLM Security Testing Framework** | A Python-based framework tests the security of Large Language Models (LLMs) deployed via Azure AI Foundry. It runs 12 specific tests to check if the AI can be tricked into dangerous behaviors like executing commands or generating malicious code. The tool analyzes responses, detects risks, and generates detailed reports. | [/scripts/ai-foundry-security-testing](/scripts/ai-foundry-security-testing) |
 
 ## How to Use
