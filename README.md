@@ -14,7 +14,7 @@ Below is a curated list of free resources, organized by sub-folder. Each include
 |----------|-------------|------|
 | **Azure Diag Policy Builder** | A Python script to automate customization of 148+ Azure diagnostic policies, adding parameters for dedicated tables, metrics, and categories. Solves enterprise logging gaps efficiently. | [/scripts/policy-builder](/scripts/policy-builder) |
 | **Azure AI Foundry LLM Security Testing Framework** | A Python-based framework tests the security of Large Language Models (LLMs) deployed via Azure AI Foundry. It runs 12 specific tests to check if the AI can be tricked into dangerous behaviors like executing commands or generating malicious code. The tool analyzes responses, detects risks, and generates detailed reports. | [/scripts/ai-foundry-security-testing](/scripts/ai-foundry-security-testing) |
-| **WebSearch Tool for Custom AI Endpoints** | A drop-in WebSearch function tool for the OpenAI Agents SDK when hosted WebSearchTool isn't available on custom endpoints (OpenRouter, direct Azure OpenAI, local models). Uses Serper.dev for Google SERP results with simple retry logic and clean output formatting. | [/tools/websearch-custom-endpoints](/tools/websearch-custom-endpoints) |
+| **WebSearch Tool for Custom AI Endpoints** | A drop-in WebSearch function tool for the OpenAI Agents SDK when hosted WebSearchTool isn't available on custom endpoints (OpenRouter, direct Azure OpenAI, local models). Uses Serper.dev for Google SERP results with simple retry logic and clean output formatting. | [/scripts/websearch-custom-endpoints](/scripts/websearch-custom-endpoints) |
 
 ## How to Use
 1. **Clone the Repo:** `git clone https://github.com/levelup360/builder-resources.git`
