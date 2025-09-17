@@ -141,3 +141,9 @@ This is the simplest method and does not require running any code.
     - Upload the `custom-blocklist.csv` file and ensure it is enabled.
 
 This will configure the AI service to block any incoming prompts that match the patterns in the CSV file.
+
+## Connect
+For questions, connect via LinkedIn: https://www.linkedin.com/in/manuel-tomas-estarlich/ 
+
+## Disclaimer
+This is not official Microsoft software. Test in a non-production environment. Use at your own risk.

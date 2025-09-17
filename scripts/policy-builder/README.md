@@ -25,7 +25,7 @@ This Python script automates the customization of Azure Policy definitions pulle
 1. Clone or download the script.
 2. Update `URLS_TO_PROCESS` and `OUTPUT_DIRECTORY` in the script.cd ..
 
-3. Run: `python azure_policy_modifier.py`
+3. Run: `python azure_diag_policy_builder.py`
 
 ## Usage
 1. **Configure URLs:** Add AZPolicyAdvertizer links to `URLS_TO_PROCESS`.
@@ -37,7 +37,7 @@ This Python script automates the customization of Azure Policy definitions pulle
    - `logs/`: Log file with details.
 
 **Example Command:**  
-`python azure_policy_modifier.py`
+`python azure_diag_policy_builder.py`
 
 **Expected Output:**  
 Logs show processing status, e.g., "Successfully processed: [URL]" and a final summary.
@@ -52,10 +52,10 @@ Logs show processing status, e.g., "Successfully processed: [URL]" and a final s
 - **Extraction Fails:** Check URL validity or regex pattern (pages may change).
 - **Missing Sections:** Script skips and warns if policy JSON lacks expected structure.
 - **Duplicates:** Unique naming handles same service names; check logs for mappings.
-- **Errors:** Review `logs/azure_policy_modifier.log` for details.
+- **Errors:** Review `logs/azure-diag-policy-builder.log` for details.
 
-## Contribution
-Fork the repo, make changes, and submit a PR. Focus on edge cases or new parameters. For questions, connect via LinkedIn: https://www.linkedin.com/in/manuel-tomas-estarlich/ or download the AI Solutions Architect's Blueprint: https://levelup360.pro/ai-sa-blueprint/
+## Connect
+For questions, connect via LinkedIn: https://www.linkedin.com/in/manuel-tomas-estarlich/ 
 
 ## Disclaimer
 This is not official Microsoft software. Test in a non-production environment. Use at your own risk.
