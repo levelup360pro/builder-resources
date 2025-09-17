@@ -90,8 +90,8 @@ This tool is intentionally minimal. Based on community feedback, future enhancem
 - **Enterprise Providers:** Create a separate guide for integrating Bing Web Search with private endpoints.
 - **Page Content Extraction:** A new tool to fetch and clean the full content from a URL.
 
-## Contribution
-Fork the repository, create a feature branch, and submit a pull request. Focus on reliability improvements, additional providers, or enterprise features. For questions, connect with me on LinkedIn: https://www.linkedin.com/in/manuel-tomas-estarlich/
+## Connect
+For questions, connect via LinkedIn: https://www.linkedin.com/in/manuel-tomas-estarlich/ 
 
 ## Disclaimer
 This tool is not affiliated with OpenAI, Microsoft, or Serper.dev. It provides a bridge solution for custom endpoints where hosted tools aren't available. Test thoroughly in non-production environments before deploying. You are responsible for adhering to the terms of service of any API provider you use. Use at your own risk.
